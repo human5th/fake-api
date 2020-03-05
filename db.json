@@ -1,0 +1,117 @@
+{
+  "Employee": [
+    {
+      "firstName": "Razakamanana",
+      "lastName": "Enock",
+      "designation": "Front - Developer",
+      "id": 1,
+      "contact": "980601324",
+      "address": "Madagascar"
+    },
+    {
+      "firstName": "Barrack",
+      "lastName": "Obama",
+      "designation": "President",
+      "id": 2,
+      "contact": "182365",
+      "address": "United State in America"
+    },
+    {
+      "firstName": "Rajoelina",
+      "lastName": "Andry Nirina",
+      "designation": "President",
+      "id": 3,
+      "contact": "6150614",
+      "address": "Madagascar"
+    },
+    {
+      "firstName": "Kagame",
+      "lastName": "Paul",
+      "designation": "President",
+      "id": 4,
+      "contact": "9874116",
+      "address": "Africa"
+    },
+    {
+      "firstName": "Razakamanana",
+      "lastName": "Joel",
+      "designation": "Studient",
+      "id": 5,
+      "contact": "8915001",
+      "address": "Madagascar"
+    },
+    {
+      "firstName": "Rakotonirina",
+      "lastName": "Tolotra",
+      "designation": "Developer",
+      "id": 6,
+      "contact": "2134551",
+      "address": "Madagascar"
+    },
+    {
+      "firstName": "Nambinintsoa",
+      "lastName": "Nalainzinnho Rayizi",
+      "designation": "UI - Developer",
+      "id": 7,
+      "contact": "324768950",
+      "address": "Madagascar"
+    },
+    {
+      "firstName": "Rafotsy",
+      "lastName": "Bozy",
+      "designation": "ShopKeeper",
+      "id": 8,
+      "contact": "150061",
+      "address": "Madagascar"
+    }
+  ],
+  "Clients": [
+    {
+      "id": 1,
+      "firstName": "Raliva",
+      "lastName": "Varma",
+      "designation": "Developer Front-End",
+      "contact": 78932,
+      "address": "Pune"
+    },
+    {
+      "id": 2,
+      "firstName": "Benja",
+      "lastName": "Varma",
+      "designation": "UI Developer",
+      "contact": 12345,
+      "address": "Pune"
+    },
+    {
+      "id": 3,
+      "firstName": "Kintana",
+      "lastName": "Varma",
+      "designation": "Web Redactor",
+      "contact": 98765,
+      "address": "Mumbai"
+    },
+    {
+      "firstName": "Balita",
+      "lastName": "Tovondriaka",
+      "designation": "Shop-keeper",
+      "id": 5,
+      "contact": "91273",
+      "address": "Toamasina"
+    }
+  ],
+  "Products": [
+    {
+      "dateLivraison": "2020-03-03",
+      "dateRetour": "2020-03-05",
+      "clientName": "Mr Rija",
+      "clientAddress": "Ankazomanga",
+      "clientPhone": null,
+      "avance": 5000,
+      "montant": null,
+      "id": 2,
+      "designation": "Fromage",
+      "quantity": 5,
+      "pu": 2000
+    }
+  ]
+}
